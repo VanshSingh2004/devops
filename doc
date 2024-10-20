@@ -1,0 +1,3 @@
+docker run -it -v file address:/usr/src/myapp -w /usr/src/myapp python python filename.py
+  docker run -it -v file address:/usr/src/myapp -w /usr/src/myapp openjdk javac main.java
+    docker run -it -v file address:/usr/src/myapp -w /usr/src/myapp openjdk java main
